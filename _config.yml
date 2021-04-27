@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: David Shumlich
 
 # Your name to show in the footer
-author: Some Person
+author: David Shumlich
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://me.david-shumlich.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
